@@ -1,0 +1,8 @@
+{
+    "manifest": [
+        {
+            "key": "assets/content/items/mods/recievers/test_lower.bundle",
+            "dependencyKeys": []
+        }
+    ]
+}

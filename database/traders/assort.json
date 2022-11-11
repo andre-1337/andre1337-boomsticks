@@ -1,0 +1,119 @@
+{
+    "traderId": "boomsticks",
+    "assorts": {
+        "items": [
+            {
+                "_id": "MAGPUL_PMAG_30_GEN_M3_AR545",
+                "_tpl": "MAGPUL_PMAG_30_GEN_M3_AR545",
+                "parentId": "hideout",
+                "slotId": "hideout",
+
+                "upd": {
+                    "UnlimitedCount": false,
+                    "StackObjectsCount": 16
+                }
+            },
+            {
+                "_id": "HONEY_BADGER",
+                "_tpl": "HONEY_BADGER",
+                "parentId": "hideout",
+                "slotId": "hideout",
+
+                "upd": {
+                    "UnlimitedCount": false,
+                    "StackObjectsCount": 3
+                }
+            },
+
+            {
+                "_id": "NOVESKE_DIPLOMAT",
+                "_tpl": "NOVESKE_DIPLOMAT",
+                "parentId": "hideout",
+                "slotId": "hideout",
+
+                "upd": {
+                    "UnlimitedCount": false,
+                    "StackObjectsCount": 3
+                }
+            },
+
+            {
+                "_id": "BOOMS_ARMAMENT_AR545",
+                "_tpl": "BOOMS_ARMAMENT_AR545",
+                "parentId": "hideout",
+                "slotId": "hideout",
+
+                "upd": {
+                    "UnlimitedCount": false,
+                    "StackObjectsCount": 3
+                }
+            },
+
+            {
+                "_id": "RUGER_AR556_LOWER_RECEIVER",
+                "_tpl": "RUGER_AR556_LOWER_RECEIVER",
+                "parentId": "hideout",
+                "slotId": "hideout",
+
+                "upd": {
+                    "UnlimitedCount": false,
+                    "StackObjectsCount": 1
+                }
+            }
+        ],
+
+        "barter_scheme": {
+            "MAGPUL_PMAG_30_GEN_M3_AR545": [
+                [
+                    {
+                        "count": 25,
+                        "_tpl": "5696686a4bdc2da3298b456a"
+                    }
+                ]
+            ],
+            "HONEY_BADGER": [
+                [
+                    {
+                        "count": 3800,
+                        "_tpl": "5696686a4bdc2da3298b456a"
+                    }
+                ]
+            ],
+
+            "NOVESKE_DIPLOMAT": [
+                [
+                    {
+                        "count": 6500,
+                        "_tpl": "5696686a4bdc2da3298b456a"
+                    }
+                ]
+            ],
+
+            "BOOMS_ARMAMENT_AR545": [
+                [
+                    {
+                        "count": 2500,
+                        "_tpl": "5696686a4bdc2da3298b456a"
+                    }
+                ]
+            ],
+
+            "RUGER_AR556_LOWER_RECEIVER": [
+                [
+                    {
+                        "count": 500,
+                        "_tpl": "5696686a4bdc2da3298b456a"
+                    }
+                ]
+            ]
+        },
+
+        "loyal_level_items": {
+            "MAGPUL_PMAG_30_GEN_M3_AR545": 1,
+            "HONEY_BADGER": 1,
+            "NOVESKE_DIPLOMAT": 1,
+            "BOOMS_ARMAMENT_AR545": 1,
+            "RUGER_AR556_LOWER_RECEIVER": 1
+        }
+    }
+}

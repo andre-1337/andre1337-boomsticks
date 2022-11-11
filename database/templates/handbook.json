@@ -1,0 +1,32 @@
+{
+    "Items": [
+        {
+            "Id": "MAGPUL_PMAG_30_GEN_M3_AR545",
+            "ParentId": "5b5f754a86f774094242f19b",
+            "Price": 25
+        },
+        {
+            "Id": "HONEY_BADGER",
+            "ParentId": "5b5f78fc86f77409407a7f90",
+            "Price": 3800
+        },
+
+        {
+            "Id": "NOVESKE_DIPLOMAT",
+            "ParentId": "5b5f78fc86f77409407a7f90",
+            "Price": 6500
+        },
+
+        {
+            "Id": "BOOMS_ARMAMENT_AR545",
+            "ParentId": "5b5f78fc86f77409407a7f90",
+            "Price": 2500
+        },
+
+        {
+            "Id": "RUGER_AR556_LOWER_RECEIVER",
+            "ParentId": "55818a304bdc2db5418b457d",
+            "Price": 500
+        }
+    ]
+}

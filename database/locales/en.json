@@ -1,0 +1,32 @@
+{
+    "templates": {
+        "MAGPUL_PMAG_30_GEN_M3_AR545": {
+            "Name": "AR-545 5.45x39 Magpul PMAG 30 GEN M3 30-round magazine",
+            "ShortName": "GEN M3",
+            "Description": "A 30-round polymer Magpul PMAG 30 AR-545 GEN M3 magazine for 5.45x39 AR and compatible weapons."
+        },
+        "HONEY_BADGER": {
+            "Name": "AAC Honey Badger .300 Blackout assault rifle",
+            "ShortName": "Honey Badger",
+            "Description": "The Honey Badger is an assault rifle chambered in .300 Blackout, manufactured by AAC."
+        },
+
+        "NOVESKE_DIPLOMAT": {
+            "Name": "Noveske Diplomat 5.56x45mm assault rifle",
+            "ShortName": "Diplomat",
+            "Description": "This short-barreled assault rifle was designed for special protection services by the American company Noveske Rifleworks; this rifle was one of the last projects that John Noveske worked on, before dying in a car accident in 2013. It is a compact and strongly modified AR-15."
+        },
+
+        "BOOMS_ARMAMENT_AR545": {
+            "Name": "Booms Armament 5.45x39mm AR-545 assault rifle",
+            "ShortName": "AR-545",
+            "Description": "This AR-15 has been specially modified by Booms Armament to be chambered in 5.45x39mm. A special creation by the one and only, Boom."
+        },
+
+        "RUGER_AR556_LOWER_RECEIVER": {
+            "Name": "Ruger AR-556 Lower Receiver",
+            "ShortName": "R.AR-556",
+            "Description": "An AR-15 lower receiver manufactured by Ruger."
+        }
+    }
+}
